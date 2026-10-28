@@ -1,0 +1,27 @@
+.container-bro {
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: 20px;
+    align-content: center;
+    align-items: center;
+  }
+
+  .container-bro-fluid {
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: 10px;
+    align-content: center;
+    align-items: center;
+  }
+
+  .img-fluid-bro{
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+    padding: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  

@@ -1,0 +1,21 @@
+# Local database configuration / secrets
+/config.local.php
+/.env
+/.env.*
+/User Account Credentials Website.txt
+
+# Local logs and OS/editor noise
+*.log
+/css/debug.log
+Thumbs.db
+.DS_Store
+
+# Superseded database exports and local backups
+/db/old/
+/db/old db/
+*.sql.bak
+*.dump
+
+# Common local editor files
+.vscode/
+.idea/
